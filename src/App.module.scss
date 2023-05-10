@@ -208,3 +208,177 @@
     margin-inline-end: 0px;
   }
 }
+.description {
+  min-height: 56px;
+
+  div {
+    display: block;
+  }
+  a {
+    text-decoration: none;
+    background-color: transparent;
+  }
+}
+
+.insidep3 {
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  margin: 4px 0px 0px;
+  font-weight: 400;
+  font-family: Inter, Helvetica, Arial, sans-serif;
+  word-break: normal;
+  text-decoration: none;
+  text-transform: none;
+  white-space: normal;
+  cursor: inherit;
+  appearance: none;
+  color: rgb(108, 111, 147);
+
+  p {
+    padding: 0px;
+    font-feature-settings: 'ss01' on, 'ss03' on, 'cv10' on, 'cv09' on, 'cv07' on,
+      'cv06' on, 'cv05' on, 'cv04' on, 'cv03' on, 'cv01' on, 'cv02' on,
+      'ss08' on, 'ss09' on, 'ss10' on;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+}
+
+.boom {
+  margin: 12px 0px 24px;
+
+  div {
+    display: block;
+  }
+}
+
+.bim {
+  padding: 0px 8px;
+  border-radius: 6px;
+  background-color: rgb(240, 245, 255);
+  width: auto;
+  flex: 1 0 auto;
+  display: inline-block;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.loli {
+  font-size: 12px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  margin: 0px;
+  font-weight: 500;
+  font-family: Inter, Helvetica, Arial, sans-serif;
+  word-break: normal;
+  text-decoration: none;
+  text-transform: none;
+  white-space: normal;
+  cursor: inherit;
+  appearance: none;
+  color: rgb(20, 99, 255);
+  margin-top: 0px;
+
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding: 0px;
+    font-feature-settings: 'ss01' on, 'ss03' on, 'cv10' on, 'cv09' on, 'cv07' on,
+      'cv06' on, 'cv05' on, 'cv04' on, 'cv03' on, 'cv01' on, 'cv02' on,
+      'ss08' on, 'ss09' on, 'ss10' on;
+  }
+}
+
+.but {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  background-color: rgb(247, 249, 252);
+  display: block;
+  box-sizing: border-box;
+}
+
+.lastp {
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  margin: 0px;
+  font-weight: 500;
+  font-family: Inter, Helvetica, Arial, sans-serif;
+  text-align: center;
+  word-break: normal;
+  text-decoration: none;
+  text-transform: none;
+  white-space: normal;
+  cursor: inherit;
+  display: inline-block;
+  appearance: none;
+  width: 100%;
+  color: rgb(14, 11, 61);
+
+  p {
+    padding: 0px;
+    font-feature-settings: 'ss01' on, 'ss03' on, 'cv10' on, 'cv09' on, 'cv07' on,
+      'cv06' on, 'cv05' on, 'cv04' on, 'cv03' on, 'cv01' on, 'cv02' on,
+      'ss08' on, 'ss09' on, 'ss10' on;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    display: inline-block;
+  }
+}
+
+.bli {
+  box-sizing: border-box;
+  border-radius: 12px;
+  padding: 24px;
+  border: 1px solid rgb(236, 239, 249);
+
+  div {
+    display: block;
+  }
+}
+
+.lu {
+  padding: 12px 8px 0px;
+
+  div {
+    display: block;
+  }
+}
+.plaudo {
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: -0.01em;
+  margin: 0px;
+  font-weight: 500;
+  font-family: Inter, Helvetica, Arial, sans-serif;
+  word-break: normal;
+  text-decoration: none;
+  text-transform: none;
+  white-space: normal;
+  cursor: inherit;
+  appearance: none;
+  color: rgb(14, 11, 61);
+
+  p {
+    font-feature-settings: 'ss01' on, 'ss03' on, 'cv10' on, 'cv09' on, 'cv07' on,
+      'cv06' on, 'cv05' on, 'cv04' on, 'cv03' on, 'cv01' on, 'cv02' on,
+      'ss08' on, 'ss09' on, 'ss10' on;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+}

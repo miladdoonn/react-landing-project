@@ -54,10 +54,25 @@ export default function App() {
               <p className={styles.insidep2}>Contact Form Generator</p>
             </a>
           </div>
+          <div className={styles.description}>
+            <a href="/#">
+              <p>
+                Ask only what matters for a contact form; Name, Email and
+                Message.
+              </p>
+            </a>
+          </div>
+          <div className={styles.boom}>
+            <a className={styles.bim}>
+              <p className={styles.loli}>Contact Forms</p>
+            </a>
+          </div>
+          <a className={styles.but}>
+            <p className={styles.lastp}>Create Contact Form</p>
+          </a>
         </div>
       </div>
 
-      <main>main content</main>
       <footer>my footer</footer>
     </>
   );
